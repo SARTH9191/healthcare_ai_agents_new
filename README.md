@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # 🏥 Healthcare AI Agents
 
@@ -20,3 +21,7 @@ This system provides:
 ---
 
 ## 📂 Project Structure
+=======
+# healthcare_ai_agents_new
+Agentic AI-powered healthcare assistant built with FastAPI.  Features symptom-to-disease reasoning, prescription reminders, medical knowledge lookups,  OCR for prescriptions, and Google Calendar integration with safety &amp; confidence checks.
+>>>>>>> b090bd89545e99cc798c17692a98c03728643d58
